@@ -1,6 +1,6 @@
 # MachineLearning
 
-Introduction to machine learning.
+Introduction to machine learning. NOTE: Images were taken in the middle of runs; they do not indicate final results.
 
 Implemented a binary perceptron. 
 
